@@ -1,2 +1,9 @@
 # Wine_Quality
-Wine_Quality prediction model 
+
+Data Set
+- UCI ML REP
+
+Target
+- Integer value of score 0 to 10
+
+Classification Problem
